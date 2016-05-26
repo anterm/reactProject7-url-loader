@@ -1,0 +1,13 @@
+.block {
+  padding: 20px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #666;
+}
+
+.book_list {
+  font-style: italic;
+}
